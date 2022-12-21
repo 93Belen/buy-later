@@ -1,0 +1,6 @@
+#allItems {
+    height: fit-content;
+    align-self: flex-start;
+    min-width: 500px;
+    max-width: 800px;
+}

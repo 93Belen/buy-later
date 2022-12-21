@@ -1,0 +1,21 @@
+#item {
+    position: relative;
+    z-index: 5;
+    border: 1px solid hsl(0, 0%, 0%);
+    border-radius: 11px;
+    background: rgba(247, 241, 237, 0.70);
+    border: 1px solid #000000;
+    backdrop-filter: blur(3px);
+    opacity: 1;
+}
+
+#itemDesactive {
+    position: relative;
+    z-index: 5;
+    border: 1px solid hsl(0, 0%, 53%);
+    border-radius: 11px;
+    background: rgba(247, 241, 237, 0.5);
+    border: 1px solid #807e7e;
+    backdrop-filter: blur(3px);
+    opacity: 0.5;
+}

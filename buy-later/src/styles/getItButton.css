@@ -1,0 +1,9 @@
+#getItButton {
+    color: #629495;
+    border-color: #629495;
+}
+
+#getItButton:hover {
+    background: #629495;
+    color: #F7F1ED;
+}

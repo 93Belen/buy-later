@@ -1,0 +1,9 @@
+#addToList {
+    color: #EEC26C;
+    border-color: #EEC26C;
+}
+
+#addToList:hover {
+    background: #EEC26C;
+    color: #F4E3D7;
+}
